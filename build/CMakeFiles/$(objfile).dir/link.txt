@@ -1,0 +1,1 @@
+/usr/bin/c++       "CMakeFiles/\$(objfile).dir/Parser.cpp.o" "CMakeFiles/\$(objfile).dir/Mdfile.cpp.o" "CMakeFiles/\$(objfile).dir/Test.cpp.o"  -o $(objfile) -rdynamic 
